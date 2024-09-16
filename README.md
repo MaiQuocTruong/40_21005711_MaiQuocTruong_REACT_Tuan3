@@ -21,4 +21,4 @@ Trước khi bắt đầu, hãy đảm bảo rằng bạn đã cài đặt các 
   npm install @react-navigation/native-stack
   npm i yarn
   npm run web
-
+- **Link youtube**: Đây là link youtube của bài 3 react (https://www.youtube.com/watch?v=OGU_qIRD63Q).
