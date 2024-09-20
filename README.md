@@ -14,11 +14,17 @@ Trước khi bắt đầu, hãy đảm bảo rằng bạn đã cài đặt các 
   npx expo install react-dom react-native-web @expo/metro-runtime
   cd YOUR_PROJECT
 
-- **Install navigation and wun web**: Chạy các lệnh sau và run web:
+- **Install navigationb**: Chạy các lệnh sau:
   ```bash
   npm install @react-navigation/native
   npx expo install react-native-screens react-native-safe-area-context
   npm install @react-navigation/native-stack
+
+- **HƯỚNG DẪN CHẠY PROJECT TRÊN VSCODE**: Chạy các lệnh sau:
+  ```bash
+  npm install -g expo-cli
   npm i yarn
   npm run web
+
+
 - **Link youtube**: Đây là link youtube của bài 3 react (https://www.youtube.com/watch?v=OGU_qIRD63Q).
