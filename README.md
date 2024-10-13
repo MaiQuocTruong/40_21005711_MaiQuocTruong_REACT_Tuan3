@@ -19,7 +19,9 @@ Trước khi bắt đầu, hãy đảm bảo rằng bạn đã cài đặt các 
   npm install @react-navigation/native
   npx expo install react-native-screens react-native-safe-area-context
   npm install @react-navigation/native-stack
-
+  
+  npm install @react-navigation/native @react-navigation/stack react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+  
 - **HƯỚNG DẪN CHẠY PROJECT TRÊN VSCODE**: Chạy các lệnh sau:
   ```bash
   npm install -g expo-cli
